@@ -1,0 +1,6 @@
+[
+  { "id": "s1", "name": "Corte de Cabelo", "desc": "Corte na tesoura ou máquina conforme seu estilo.", "price": "45", "icon": "💈" },
+  { "id": "s2", "name": "Barba Completa", "desc": "Toalha quente, navalha e finalização.", "price": "40", "icon": "🪒" },
+  { "id": "s3", "name": "Combo Completo", "desc": "Corte + barba + sobrancelha com desconto.", "price": "75", "icon": "✨" },
+  { "id": "s4", "name": "Sobrancelha", "desc": "Alinhamento na navalha para acabamento perfeito.", "price": "15", "icon": "🧔" }
+]
